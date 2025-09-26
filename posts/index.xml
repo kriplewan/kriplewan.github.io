@@ -6,8 +6,22 @@
     <description>Recent content in Posts on 怪奇故事集</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 20 Sep 2025 16:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 15:16:42 +0000</lastBuildDate>
     <atom:link href="https://kriplewan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>更新计划</title>
+      <link>https://kriplewan.github.io/posts/2025-09-25-%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</link>
+      <pubDate>Thu, 25 Sep 2025 15:16:42 +0000</pubDate>
+      <guid>https://kriplewan.github.io/posts/2025-09-25-%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</guid>
+      <description>&lt;h3 id=&#34;整理排版&#34;&gt;整理排版&lt;/h3&gt;
+&lt;p&gt;修改自己不满意的排版，包括页眉，边距&lt;/p&gt;
+&lt;h3 id=&#34;添加背景图片&#34;&gt;添加背景图片&lt;/h3&gt;
+&lt;p&gt;寻找不修改theme内容增加背景的方法&lt;/p&gt;
+&lt;h3 id=&#34;增加一件托管的功能&#34;&gt;增加一件托管的功能&lt;/h3&gt;
+&lt;p&gt;利用github的GitHub Actions进行一件托管&lt;/p&gt;
+&lt;h4 id=&#34;购买独立的域名托管到远程服务器中&#34;&gt;购买独立的域名，托管到远程服务器中&lt;/h4&gt;
+&lt;p&gt;（长期目标）代码noob这块&lt;/p&gt;</description>
+    </item>
     <item>
       <title>岁寒三友</title>
       <link>https://kriplewan.github.io/posts/how-to-live/</link>

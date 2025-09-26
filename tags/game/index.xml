@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Game on 怪奇故事集</title>
+    <link>http://localhost:1313/tags/game/</link>
+    <description>Recent content in Game on 怪奇故事集</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>无人深空</title>
+      <link>http://localhost:1313/portfolio/work1/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/work1/</guid>
+      <description>夜晚的城市灯光，捕捉了都市的活力。</description>
+    </item>
+  </channel>
+</rss>

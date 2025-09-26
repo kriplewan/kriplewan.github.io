@@ -6,8 +6,22 @@
     <description>Recent content on 怪奇故事集</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 20 Sep 2025 16:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 15:16:42 +0000</lastBuildDate>
     <atom:link href="https://kriplewan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>更新计划</title>
+      <link>https://kriplewan.github.io/posts/2025-09-25-%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</link>
+      <pubDate>Thu, 25 Sep 2025 15:16:42 +0000</pubDate>
+      <guid>https://kriplewan.github.io/posts/2025-09-25-%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</guid>
+      <description>&lt;h3 id=&#34;整理排版&#34;&gt;整理排版&lt;/h3&gt;
+&lt;p&gt;修改自己不满意的排版，包括页眉，边距&lt;/p&gt;
+&lt;h3 id=&#34;添加背景图片&#34;&gt;添加背景图片&lt;/h3&gt;
+&lt;p&gt;寻找不修改theme内容增加背景的方法&lt;/p&gt;
+&lt;h3 id=&#34;增加一件托管的功能&#34;&gt;增加一件托管的功能&lt;/h3&gt;
+&lt;p&gt;利用github的GitHub Actions进行一件托管&lt;/p&gt;
+&lt;h4 id=&#34;购买独立的域名托管到远程服务器中&#34;&gt;购买独立的域名，托管到远程服务器中&lt;/h4&gt;
+&lt;p&gt;（长期目标）代码noob这块&lt;/p&gt;</description>
+    </item>
     <item>
       <title>岁寒三友</title>
       <link>https://kriplewan.github.io/posts/how-to-live/</link>
@@ -21,6 +35,20 @@
       <pubDate>Sat, 20 Sep 2025 11:37:47 +0000</pubDate>
       <guid>https://kriplewan.github.io/posts/how-to-love/</guid>
       <description>&lt;p&gt;天上浮云似白衣，斯须改变如苍狗。世事无常，曾经满溢褒扬的“凤凰男”一词如今在婚姻嫁娶中被提起时已经让人避之唯恐不急，甚至连词义都已经悄然改变了。一方面原因固然在于大多女方也不过因缘乍富树小墙新，强行“招赘”本属不自量力；但另一方面，凤凰男群体确实普遍存在一些性格上的共性缺陷。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宇达一角</title>
+      <link>https://kriplewan.github.io/portfolio/work1/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://kriplewan.github.io/portfolio/work1/</guid>
+      <description>By 佳能AE-1</description>
+    </item>
+    <item>
+      <title>无人深空</title>
+      <link>https://kriplewan.github.io/portfolio/work2/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://kriplewan.github.io/portfolio/work2/</guid>
+      <description>no man sky</description>
     </item>
   </channel>
 </rss>
